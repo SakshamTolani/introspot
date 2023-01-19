@@ -21,7 +21,7 @@ import Lottie from "react-lottie";
 import animationData from "../animations/typing.json";
 import useSound from "use-sound";
 
-const ENDPOINT = "https://introspot.herokuapp.com";
+const ENDPOINT = "https://introspot.onrender.com";
 // const ENDPOINT = "http://localhost:5000";
 var socket, selectedChatCompare;
 
